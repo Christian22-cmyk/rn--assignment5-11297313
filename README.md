@@ -1,1 +1,1 @@
-# rn--assignment5-11297313
+In this project, I built an application featuring a bottom tab navigation with Home, Settings, and Screens tabs. The app allows users to switch between light and dark themes, enhancing the user experience as showcased in the UI design. Using Expo, I efficiently developed and tested the app, ensuring smooth transitions and consistent functionality across different themes and screens. The project also includes detailed UI elements, responsive layouts, and interactive components to provide a  user-friendly interface.
